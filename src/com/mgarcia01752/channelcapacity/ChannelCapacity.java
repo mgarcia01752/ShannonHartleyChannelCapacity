@@ -105,8 +105,8 @@ public class ChannelCapacity {
 	  
 	  /**
 	   * 
-	   * @param iMary
-	   * @return log_2(Mary)
+	   * @param iMary Number of symbols
+	   * @return log_2(Mary) Number of bits represted by the symbol
 	   */
 	  public static int getBitsPerSymbolFromMary(int iMary) {
 		  return (int) (Math.log(iMary)/Math.log(2));
@@ -114,8 +114,8 @@ public class ChannelCapacity {
 	  
 	  /**
 	   * 
-	   * @param iBitsPerSymbol
-	   * @return 2^BPSym
+	   * @param iBitsTransmitted Number of bits transmitted
+	   * @return Number of symbols needed to represent required transmitted bits-per-symbol
 	   */
 	  public static int getMaryFromBitsPerSymbol(int iBitsPerSymbol) {
 		  return (int) Math.pow(2, iBitsPerSymbol);
