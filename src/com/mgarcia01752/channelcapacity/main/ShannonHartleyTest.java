@@ -41,6 +41,19 @@ public class ShannonHartleyTest {
 			System.out.println("ShannonCapacity: " + iBPS + "-BitsPerSymbol + 50KHz + MER: 25 dB " + ChannelCapacity.Limit(iBPS, 50000, 25.0));
 			System.out.println("ShannonCapacity: " + iBPS + "-BitsPerSymbol + 50KHz + MER: 20 dB " + ChannelCapacity.Limit(iBPS, 50000, 20.0));
 		}
+		
+		System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
+		
+		for(int iBitsPerSymbol = 1; iBitsPerSymbol < 20; iBitsPerSymbol++) {
+			System.out.println("ShannonCapacity: " + iBitsPerSymbol + "-BitsPerSymbol -> Min SNR: " + ChannelCapacity.MinSignalToNoise(iBitsPerSymbol));
+		}
+
+		System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
+		
+		for(double dSignal2Noise = 1; dSignal2Noise < 60; dSignal2Noise++) {
+			System.out.println("ShannonCapacity: " + dSignal2Noise + "-Signal2Noise -> Min bits-per-symbol: " + ChannelCapacity.BitsPerSymbol(dSignal2Noise));
+		}
+		
 	}
 
 }
