@@ -6,7 +6,7 @@ This [API](https://github.com/mgarcia01752/ShannonHartleyChannelCapacity/blob/ma
 
 **Channel Capacity Equation**
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=C=B*log_2(1&plus;\frac{S}{N})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?C=B*log_2(1&plus;\frac{S}{N})" title="C=B*log_2(1+\frac{S}{N})" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=C=B*log_2(1&plus;\frac{S}{N})" target="_blank"><img src="https://latex.codecogs.com/svg.latex?C=B*log_2(1&plus;\frac{S}{N})" title="C=B*log_2(1+\frac{S}{N})" /></a>
 
 **M-ary Equation**
 
