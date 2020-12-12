@@ -57,13 +57,13 @@ public class ShannonHartleyTest {
 		System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
 		
 		for(int iNumOfSymbols = 1; iNumOfSymbols <= 256; iNumOfSymbols++) {
-			System.out.println("ShannonCapacity: " + iNumOfSymbols + "-Num-of-symbols -> bits-per-symbol: " + ChannelCapacity.getBitsPerSymbolFromMary(iNumOfSymbols));
+			System.out.println("ShannonCapacity: " + iNumOfSymbols + "-Num-of-symbols (M-ary) -> bits-per-symbol: " + ChannelCapacity.getBitsPerSymbolFromMary(iNumOfSymbols));
 		}
 		
 		System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
 		
 		for(int iBitsPerSymbol = 1; iBitsPerSymbol <= 8; iBitsPerSymbol++) {
-			System.out.println("ShannonCapacity: " + iBitsPerSymbol + "-BitsPerSymbol -> Num-of-symbol(QAM): " + ChannelCapacity.getMaryFromBitsPerSymbol(iBitsPerSymbol));
+			System.out.println("ShannonCapacity: " + iBitsPerSymbol + "-BitsPerSymbol -> Num-of-symbol (M-ary): " + ChannelCapacity.getMaryFromBitsPerSymbol(iBitsPerSymbol));
 		}
 		
 	}
