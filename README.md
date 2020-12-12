@@ -6,12 +6,11 @@ This [API](https://github.com/mgarcia01752/ShannonHartleyChannelCapacity/blob/ma
 
 **Channel Capacity Equation**
 
-![alt text](https://wikimedia.org/api/rest_v1/media/math/render/svg/cd8e56f09c4da5480c1ddfd15855f2cc803938f4)
+<a href="https://www.codecogs.com/eqnedit.php?latex=C=B*log_2(1&plus;\frac{S}{N})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?C=B*log_2(1&plus;\frac{S}{N})" title="C=B*log_2(1+\frac{S}{N})" /></a>
 
+**M-ary Equation**
 
-**M-ary**
-
-
+<a href="https://www.codecogs.com/eqnedit.php?latex=N=log_2(M)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?N=log_2(M)" title="N=log_2(M)" /></a>
 
 
  
