@@ -10,6 +10,6 @@ This [API](https://github.com/mgarcia01752/ShannonHartleyChannelCapacity/blob/ma
 
 **M-ary Equation**
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\large&space;N=log_2(M)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\large&space;N=log_2(M)" title="\large N=log_2(M)" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=\bg_black&space;\large&space;N=log_2(M)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\large&space;N=log_2(M)" title="\large N=log_2(M)" /></a>
 
  
