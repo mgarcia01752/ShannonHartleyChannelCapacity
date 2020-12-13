@@ -12,4 +12,8 @@ This [API](https://github.com/mgarcia01752/ShannonHartleyChannelCapacity/blob/ma
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\bg_black&space;\large&space;N=log_2(M)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bg_black&space;\large&space;N=log_2(M)" title="\large N=log_2(M)" /></a>
 
- 
+**Test API Example and Results**
+
+[Test Example](https://github.com/mgarcia01752/ShannonHartleyChannelCapacity/blob/main/src/com/mgarcia01752/channelcapacity/main/ShannonHartleyTest.java)
+
+[Test Example Results](https://github.com/mgarcia01752/ShannonHartleyChannelCapacity/blob/main/src/com/mgarcia01752/channelcapacity/main/ShannonHartleyTestOutput.txt) 
