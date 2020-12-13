@@ -1,0 +1,555 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BitsPerSecond: 50000.0
+ShannonCapacity: 1-BitsPerSymbol + 50KHz + MER: 51 dB true
+ShannonCapacity: 1-BitsPerSymbol + 50KHz + MER: 49 dB true
+ShannonCapacity: 1-BitsPerSymbol + 50KHz + MER: 46 dB true
+ShannonCapacity: 1-BitsPerSymbol + 50KHz + MER: 43 dB true
+ShannonCapacity: 1-BitsPerSymbol + 50KHz + MER: 40 db true
+ShannonCapacity: 1-BitsPerSymbol + 50KHz + MER: 35 dB true
+ShannonCapacity: 1-BitsPerSymbol + 50KHz + MER: 30 dB true
+ShannonCapacity: 1-BitsPerSymbol + 50KHz + MER: 25 dB true
+ShannonCapacity: 1-BitsPerSymbol + 50KHz + MER: 20 dB true
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BitsPerSecond: 100000.0
+ShannonCapacity: 2-BitsPerSymbol + 50KHz + MER: 51 dB true
+ShannonCapacity: 2-BitsPerSymbol + 50KHz + MER: 49 dB true
+ShannonCapacity: 2-BitsPerSymbol + 50KHz + MER: 46 dB true
+ShannonCapacity: 2-BitsPerSymbol + 50KHz + MER: 43 dB true
+ShannonCapacity: 2-BitsPerSymbol + 50KHz + MER: 40 db true
+ShannonCapacity: 2-BitsPerSymbol + 50KHz + MER: 35 dB true
+ShannonCapacity: 2-BitsPerSymbol + 50KHz + MER: 30 dB true
+ShannonCapacity: 2-BitsPerSymbol + 50KHz + MER: 25 dB true
+ShannonCapacity: 2-BitsPerSymbol + 50KHz + MER: 20 dB true
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BitsPerSecond: 150000.0
+ShannonCapacity: 3-BitsPerSymbol + 50KHz + MER: 51 dB true
+ShannonCapacity: 3-BitsPerSymbol + 50KHz + MER: 49 dB true
+ShannonCapacity: 3-BitsPerSymbol + 50KHz + MER: 46 dB true
+ShannonCapacity: 3-BitsPerSymbol + 50KHz + MER: 43 dB true
+ShannonCapacity: 3-BitsPerSymbol + 50KHz + MER: 40 db true
+ShannonCapacity: 3-BitsPerSymbol + 50KHz + MER: 35 dB true
+ShannonCapacity: 3-BitsPerSymbol + 50KHz + MER: 30 dB true
+ShannonCapacity: 3-BitsPerSymbol + 50KHz + MER: 25 dB true
+ShannonCapacity: 3-BitsPerSymbol + 50KHz + MER: 20 dB true
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BitsPerSecond: 200000.0
+ShannonCapacity: 4-BitsPerSymbol + 50KHz + MER: 51 dB true
+ShannonCapacity: 4-BitsPerSymbol + 50KHz + MER: 49 dB true
+ShannonCapacity: 4-BitsPerSymbol + 50KHz + MER: 46 dB true
+ShannonCapacity: 4-BitsPerSymbol + 50KHz + MER: 43 dB true
+ShannonCapacity: 4-BitsPerSymbol + 50KHz + MER: 40 db true
+ShannonCapacity: 4-BitsPerSymbol + 50KHz + MER: 35 dB true
+ShannonCapacity: 4-BitsPerSymbol + 50KHz + MER: 30 dB true
+ShannonCapacity: 4-BitsPerSymbol + 50KHz + MER: 25 dB true
+ShannonCapacity: 4-BitsPerSymbol + 50KHz + MER: 20 dB true
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BitsPerSecond: 250000.0
+ShannonCapacity: 5-BitsPerSymbol + 50KHz + MER: 51 dB true
+ShannonCapacity: 5-BitsPerSymbol + 50KHz + MER: 49 dB true
+ShannonCapacity: 5-BitsPerSymbol + 50KHz + MER: 46 dB true
+ShannonCapacity: 5-BitsPerSymbol + 50KHz + MER: 43 dB true
+ShannonCapacity: 5-BitsPerSymbol + 50KHz + MER: 40 db true
+ShannonCapacity: 5-BitsPerSymbol + 50KHz + MER: 35 dB true
+ShannonCapacity: 5-BitsPerSymbol + 50KHz + MER: 30 dB true
+ShannonCapacity: 5-BitsPerSymbol + 50KHz + MER: 25 dB true
+ShannonCapacity: 5-BitsPerSymbol + 50KHz + MER: 20 dB true
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BitsPerSecond: 300000.0
+ShannonCapacity: 6-BitsPerSymbol + 50KHz + MER: 51 dB true
+ShannonCapacity: 6-BitsPerSymbol + 50KHz + MER: 49 dB true
+ShannonCapacity: 6-BitsPerSymbol + 50KHz + MER: 46 dB true
+ShannonCapacity: 6-BitsPerSymbol + 50KHz + MER: 43 dB true
+ShannonCapacity: 6-BitsPerSymbol + 50KHz + MER: 40 db true
+ShannonCapacity: 6-BitsPerSymbol + 50KHz + MER: 35 dB true
+ShannonCapacity: 6-BitsPerSymbol + 50KHz + MER: 30 dB true
+ShannonCapacity: 6-BitsPerSymbol + 50KHz + MER: 25 dB true
+ShannonCapacity: 6-BitsPerSymbol + 50KHz + MER: 20 dB true
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BitsPerSecond: 350000.0
+ShannonCapacity: 7-BitsPerSymbol + 50KHz + MER: 51 dB true
+ShannonCapacity: 7-BitsPerSymbol + 50KHz + MER: 49 dB true
+ShannonCapacity: 7-BitsPerSymbol + 50KHz + MER: 46 dB true
+ShannonCapacity: 7-BitsPerSymbol + 50KHz + MER: 43 dB true
+ShannonCapacity: 7-BitsPerSymbol + 50KHz + MER: 40 db true
+ShannonCapacity: 7-BitsPerSymbol + 50KHz + MER: 35 dB true
+ShannonCapacity: 7-BitsPerSymbol + 50KHz + MER: 30 dB true
+ShannonCapacity: 7-BitsPerSymbol + 50KHz + MER: 25 dB true
+ShannonCapacity: 7-BitsPerSymbol + 50KHz + MER: 20 dB false
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BitsPerSecond: 400000.0
+ShannonCapacity: 8-BitsPerSymbol + 50KHz + MER: 51 dB true
+ShannonCapacity: 8-BitsPerSymbol + 50KHz + MER: 49 dB true
+ShannonCapacity: 8-BitsPerSymbol + 50KHz + MER: 46 dB true
+ShannonCapacity: 8-BitsPerSymbol + 50KHz + MER: 43 dB true
+ShannonCapacity: 8-BitsPerSymbol + 50KHz + MER: 40 db true
+ShannonCapacity: 8-BitsPerSymbol + 50KHz + MER: 35 dB true
+ShannonCapacity: 8-BitsPerSymbol + 50KHz + MER: 30 dB true
+ShannonCapacity: 8-BitsPerSymbol + 50KHz + MER: 25 dB true
+ShannonCapacity: 8-BitsPerSymbol + 50KHz + MER: 20 dB false
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BitsPerSecond: 450000.0
+ShannonCapacity: 9-BitsPerSymbol + 50KHz + MER: 51 dB true
+ShannonCapacity: 9-BitsPerSymbol + 50KHz + MER: 49 dB true
+ShannonCapacity: 9-BitsPerSymbol + 50KHz + MER: 46 dB true
+ShannonCapacity: 9-BitsPerSymbol + 50KHz + MER: 43 dB true
+ShannonCapacity: 9-BitsPerSymbol + 50KHz + MER: 40 db true
+ShannonCapacity: 9-BitsPerSymbol + 50KHz + MER: 35 dB true
+ShannonCapacity: 9-BitsPerSymbol + 50KHz + MER: 30 dB true
+ShannonCapacity: 9-BitsPerSymbol + 50KHz + MER: 25 dB false
+ShannonCapacity: 9-BitsPerSymbol + 50KHz + MER: 20 dB false
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BitsPerSecond: 500000.0
+ShannonCapacity: 10-BitsPerSymbol + 50KHz + MER: 51 dB true
+ShannonCapacity: 10-BitsPerSymbol + 50KHz + MER: 49 dB true
+ShannonCapacity: 10-BitsPerSymbol + 50KHz + MER: 46 dB true
+ShannonCapacity: 10-BitsPerSymbol + 50KHz + MER: 43 dB true
+ShannonCapacity: 10-BitsPerSymbol + 50KHz + MER: 40 db true
+ShannonCapacity: 10-BitsPerSymbol + 50KHz + MER: 35 dB true
+ShannonCapacity: 10-BitsPerSymbol + 50KHz + MER: 30 dB false
+ShannonCapacity: 10-BitsPerSymbol + 50KHz + MER: 25 dB false
+ShannonCapacity: 10-BitsPerSymbol + 50KHz + MER: 20 dB false
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BitsPerSecond: 550000.0
+ShannonCapacity: 11-BitsPerSymbol + 50KHz + MER: 51 dB true
+ShannonCapacity: 11-BitsPerSymbol + 50KHz + MER: 49 dB true
+ShannonCapacity: 11-BitsPerSymbol + 50KHz + MER: 46 dB true
+ShannonCapacity: 11-BitsPerSymbol + 50KHz + MER: 43 dB true
+ShannonCapacity: 11-BitsPerSymbol + 50KHz + MER: 40 db true
+ShannonCapacity: 11-BitsPerSymbol + 50KHz + MER: 35 dB true
+ShannonCapacity: 11-BitsPerSymbol + 50KHz + MER: 30 dB false
+ShannonCapacity: 11-BitsPerSymbol + 50KHz + MER: 25 dB false
+ShannonCapacity: 11-BitsPerSymbol + 50KHz + MER: 20 dB false
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BitsPerSecond: 600000.0
+ShannonCapacity: 12-BitsPerSymbol + 50KHz + MER: 51 dB true
+ShannonCapacity: 12-BitsPerSymbol + 50KHz + MER: 49 dB true
+ShannonCapacity: 12-BitsPerSymbol + 50KHz + MER: 46 dB true
+ShannonCapacity: 12-BitsPerSymbol + 50KHz + MER: 43 dB true
+ShannonCapacity: 12-BitsPerSymbol + 50KHz + MER: 40 db true
+ShannonCapacity: 12-BitsPerSymbol + 50KHz + MER: 35 dB false
+ShannonCapacity: 12-BitsPerSymbol + 50KHz + MER: 30 dB false
+ShannonCapacity: 12-BitsPerSymbol + 50KHz + MER: 25 dB false
+ShannonCapacity: 12-BitsPerSymbol + 50KHz + MER: 20 dB false
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BitsPerSecond: 650000.0
+ShannonCapacity: 13-BitsPerSymbol + 50KHz + MER: 51 dB true
+ShannonCapacity: 13-BitsPerSymbol + 50KHz + MER: 49 dB true
+ShannonCapacity: 13-BitsPerSymbol + 50KHz + MER: 46 dB true
+ShannonCapacity: 13-BitsPerSymbol + 50KHz + MER: 43 dB true
+ShannonCapacity: 13-BitsPerSymbol + 50KHz + MER: 40 db true
+ShannonCapacity: 13-BitsPerSymbol + 50KHz + MER: 35 dB false
+ShannonCapacity: 13-BitsPerSymbol + 50KHz + MER: 30 dB false
+ShannonCapacity: 13-BitsPerSymbol + 50KHz + MER: 25 dB false
+ShannonCapacity: 13-BitsPerSymbol + 50KHz + MER: 20 dB false
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BitsPerSecond: 700000.0
+ShannonCapacity: 14-BitsPerSymbol + 50KHz + MER: 51 dB true
+ShannonCapacity: 14-BitsPerSymbol + 50KHz + MER: 49 dB true
+ShannonCapacity: 14-BitsPerSymbol + 50KHz + MER: 46 dB true
+ShannonCapacity: 14-BitsPerSymbol + 50KHz + MER: 43 dB true
+ShannonCapacity: 14-BitsPerSymbol + 50KHz + MER: 40 db false
+ShannonCapacity: 14-BitsPerSymbol + 50KHz + MER: 35 dB false
+ShannonCapacity: 14-BitsPerSymbol + 50KHz + MER: 30 dB false
+ShannonCapacity: 14-BitsPerSymbol + 50KHz + MER: 25 dB false
+ShannonCapacity: 14-BitsPerSymbol + 50KHz + MER: 20 dB false
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BitsPerSecond: 750000.0
+ShannonCapacity: 15-BitsPerSymbol + 50KHz + MER: 51 dB true
+ShannonCapacity: 15-BitsPerSymbol + 50KHz + MER: 49 dB true
+ShannonCapacity: 15-BitsPerSymbol + 50KHz + MER: 46 dB true
+ShannonCapacity: 15-BitsPerSymbol + 50KHz + MER: 43 dB false
+ShannonCapacity: 15-BitsPerSymbol + 50KHz + MER: 40 db false
+ShannonCapacity: 15-BitsPerSymbol + 50KHz + MER: 35 dB false
+ShannonCapacity: 15-BitsPerSymbol + 50KHz + MER: 30 dB false
+ShannonCapacity: 15-BitsPerSymbol + 50KHz + MER: 25 dB false
+ShannonCapacity: 15-BitsPerSymbol + 50KHz + MER: 20 dB false
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BitsPerSecond: 800000.0
+ShannonCapacity: 16-BitsPerSymbol + 50KHz + MER: 51 dB true
+ShannonCapacity: 16-BitsPerSymbol + 50KHz + MER: 49 dB true
+ShannonCapacity: 16-BitsPerSymbol + 50KHz + MER: 46 dB false
+ShannonCapacity: 16-BitsPerSymbol + 50KHz + MER: 43 dB false
+ShannonCapacity: 16-BitsPerSymbol + 50KHz + MER: 40 db false
+ShannonCapacity: 16-BitsPerSymbol + 50KHz + MER: 35 dB false
+ShannonCapacity: 16-BitsPerSymbol + 50KHz + MER: 30 dB false
+ShannonCapacity: 16-BitsPerSymbol + 50KHz + MER: 25 dB false
+ShannonCapacity: 16-BitsPerSymbol + 50KHz + MER: 20 dB false
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BitsPerSecond: 850000.0
+ShannonCapacity: 17-BitsPerSymbol + 50KHz + MER: 51 dB false
+ShannonCapacity: 17-BitsPerSymbol + 50KHz + MER: 49 dB false
+ShannonCapacity: 17-BitsPerSymbol + 50KHz + MER: 46 dB false
+ShannonCapacity: 17-BitsPerSymbol + 50KHz + MER: 43 dB false
+ShannonCapacity: 17-BitsPerSymbol + 50KHz + MER: 40 db false
+ShannonCapacity: 17-BitsPerSymbol + 50KHz + MER: 35 dB false
+ShannonCapacity: 17-BitsPerSymbol + 50KHz + MER: 30 dB false
+ShannonCapacity: 17-BitsPerSymbol + 50KHz + MER: 25 dB false
+ShannonCapacity: 17-BitsPerSymbol + 50KHz + MER: 20 dB false
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BitsPerSecond: 900000.0
+ShannonCapacity: 18-BitsPerSymbol + 50KHz + MER: 51 dB false
+ShannonCapacity: 18-BitsPerSymbol + 50KHz + MER: 49 dB false
+ShannonCapacity: 18-BitsPerSymbol + 50KHz + MER: 46 dB false
+ShannonCapacity: 18-BitsPerSymbol + 50KHz + MER: 43 dB false
+ShannonCapacity: 18-BitsPerSymbol + 50KHz + MER: 40 db false
+ShannonCapacity: 18-BitsPerSymbol + 50KHz + MER: 35 dB false
+ShannonCapacity: 18-BitsPerSymbol + 50KHz + MER: 30 dB false
+ShannonCapacity: 18-BitsPerSymbol + 50KHz + MER: 25 dB false
+ShannonCapacity: 18-BitsPerSymbol + 50KHz + MER: 20 dB false
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BitsPerSecond: 950000.0
+ShannonCapacity: 19-BitsPerSymbol + 50KHz + MER: 51 dB false
+ShannonCapacity: 19-BitsPerSymbol + 50KHz + MER: 49 dB false
+ShannonCapacity: 19-BitsPerSymbol + 50KHz + MER: 46 dB false
+ShannonCapacity: 19-BitsPerSymbol + 50KHz + MER: 43 dB false
+ShannonCapacity: 19-BitsPerSymbol + 50KHz + MER: 40 db false
+ShannonCapacity: 19-BitsPerSymbol + 50KHz + MER: 35 dB false
+ShannonCapacity: 19-BitsPerSymbol + 50KHz + MER: 30 dB false
+ShannonCapacity: 19-BitsPerSymbol + 50KHz + MER: 25 dB false
+ShannonCapacity: 19-BitsPerSymbol + 50KHz + MER: 20 dB false
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ShannonCapacity: 1-BitsPerSymbol -> Min SNR: 0.0
+ShannonCapacity: 2-BitsPerSymbol -> Min SNR: 4.771212547196624
+ShannonCapacity: 3-BitsPerSymbol -> Min SNR: 8.450980400142567
+ShannonCapacity: 4-BitsPerSymbol -> Min SNR: 11.760912590556813
+ShannonCapacity: 5-BitsPerSymbol -> Min SNR: 14.913616938342727
+ShannonCapacity: 6-BitsPerSymbol -> Min SNR: 17.993405494535818
+ShannonCapacity: 7-BitsPerSymbol -> Min SNR: 21.03803720955957
+ShannonCapacity: 8-BitsPerSymbol -> Min SNR: 24.06540180433955
+ShannonCapacity: 9-BitsPerSymbol -> Min SNR: 27.084209001347126
+ShannonCapacity: 10-BitsPerSymbol -> Min SNR: 30.0987563371216
+ShannonCapacity: 11-BitsPerSymbol -> Min SNR: 33.11117842662506
+ShannonCapacity: 12-BitsPerSymbol -> Min SNR: 36.12253906096437
+ShannonCapacity: 13-BitsPerSymbol -> Min SNR: 39.13336925932623
+ShannonCapacity: 14-BitsPerSymbol -> Min SNR: 42.14393431255206
+ShannonCapacity: 15-BitsPerSymbol -> Min SNR: 45.15436681141699
+ShannonCapacity: 16-BitsPerSymbol -> Min SNR: 48.164733037652496
+ShannonCapacity: 17-BitsPerSymbol -> Min SNR: 51.17506612871096
+ShannonCapacity: 18-BitsPerSymbol -> Min SNR: 54.185382652465286
+ShannonCapacity: 19-BitsPerSymbol -> Min SNR: 57.195690892638666
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ShannonCapacity: 1.0-Signal2Noise -> Min bits-per-symbol: 1
+ShannonCapacity: 2.0-Signal2Noise -> Min bits-per-symbol: 1
+ShannonCapacity: 3.0-Signal2Noise -> Min bits-per-symbol: 1
+ShannonCapacity: 4.0-Signal2Noise -> Min bits-per-symbol: 1
+ShannonCapacity: 5.0-Signal2Noise -> Min bits-per-symbol: 2
+ShannonCapacity: 6.0-Signal2Noise -> Min bits-per-symbol: 2
+ShannonCapacity: 7.0-Signal2Noise -> Min bits-per-symbol: 2
+ShannonCapacity: 8.0-Signal2Noise -> Min bits-per-symbol: 2
+ShannonCapacity: 9.0-Signal2Noise -> Min bits-per-symbol: 3
+ShannonCapacity: 10.0-Signal2Noise -> Min bits-per-symbol: 3
+ShannonCapacity: 11.0-Signal2Noise -> Min bits-per-symbol: 3
+ShannonCapacity: 12.0-Signal2Noise -> Min bits-per-symbol: 4
+ShannonCapacity: 13.0-Signal2Noise -> Min bits-per-symbol: 4
+ShannonCapacity: 14.0-Signal2Noise -> Min bits-per-symbol: 4
+ShannonCapacity: 15.0-Signal2Noise -> Min bits-per-symbol: 5
+ShannonCapacity: 16.0-Signal2Noise -> Min bits-per-symbol: 5
+ShannonCapacity: 17.0-Signal2Noise -> Min bits-per-symbol: 5
+ShannonCapacity: 18.0-Signal2Noise -> Min bits-per-symbol: 6
+ShannonCapacity: 19.0-Signal2Noise -> Min bits-per-symbol: 6
+ShannonCapacity: 20.0-Signal2Noise -> Min bits-per-symbol: 6
+ShannonCapacity: 21.0-Signal2Noise -> Min bits-per-symbol: 6
+ShannonCapacity: 22.0-Signal2Noise -> Min bits-per-symbol: 7
+ShannonCapacity: 23.0-Signal2Noise -> Min bits-per-symbol: 7
+ShannonCapacity: 24.0-Signal2Noise -> Min bits-per-symbol: 7
+ShannonCapacity: 25.0-Signal2Noise -> Min bits-per-symbol: 8
+ShannonCapacity: 26.0-Signal2Noise -> Min bits-per-symbol: 8
+ShannonCapacity: 27.0-Signal2Noise -> Min bits-per-symbol: 8
+ShannonCapacity: 28.0-Signal2Noise -> Min bits-per-symbol: 9
+ShannonCapacity: 29.0-Signal2Noise -> Min bits-per-symbol: 9
+ShannonCapacity: 30.0-Signal2Noise -> Min bits-per-symbol: 9
+ShannonCapacity: 31.0-Signal2Noise -> Min bits-per-symbol: 10
+ShannonCapacity: 32.0-Signal2Noise -> Min bits-per-symbol: 10
+ShannonCapacity: 33.0-Signal2Noise -> Min bits-per-symbol: 10
+ShannonCapacity: 34.0-Signal2Noise -> Min bits-per-symbol: 11
+ShannonCapacity: 35.0-Signal2Noise -> Min bits-per-symbol: 11
+ShannonCapacity: 36.0-Signal2Noise -> Min bits-per-symbol: 11
+ShannonCapacity: 37.0-Signal2Noise -> Min bits-per-symbol: 12
+ShannonCapacity: 38.0-Signal2Noise -> Min bits-per-symbol: 12
+ShannonCapacity: 39.0-Signal2Noise -> Min bits-per-symbol: 12
+ShannonCapacity: 40.0-Signal2Noise -> Min bits-per-symbol: 13
+ShannonCapacity: 41.0-Signal2Noise -> Min bits-per-symbol: 13
+ShannonCapacity: 42.0-Signal2Noise -> Min bits-per-symbol: 13
+ShannonCapacity: 43.0-Signal2Noise -> Min bits-per-symbol: 14
+ShannonCapacity: 44.0-Signal2Noise -> Min bits-per-symbol: 14
+ShannonCapacity: 45.0-Signal2Noise -> Min bits-per-symbol: 14
+ShannonCapacity: 46.0-Signal2Noise -> Min bits-per-symbol: 15
+ShannonCapacity: 47.0-Signal2Noise -> Min bits-per-symbol: 15
+ShannonCapacity: 48.0-Signal2Noise -> Min bits-per-symbol: 15
+ShannonCapacity: 49.0-Signal2Noise -> Min bits-per-symbol: 16
+ShannonCapacity: 50.0-Signal2Noise -> Min bits-per-symbol: 16
+ShannonCapacity: 51.0-Signal2Noise -> Min bits-per-symbol: 16
+ShannonCapacity: 52.0-Signal2Noise -> Min bits-per-symbol: 17
+ShannonCapacity: 53.0-Signal2Noise -> Min bits-per-symbol: 17
+ShannonCapacity: 54.0-Signal2Noise -> Min bits-per-symbol: 17
+ShannonCapacity: 55.0-Signal2Noise -> Min bits-per-symbol: 18
+ShannonCapacity: 56.0-Signal2Noise -> Min bits-per-symbol: 18
+ShannonCapacity: 57.0-Signal2Noise -> Min bits-per-symbol: 18
+ShannonCapacity: 58.0-Signal2Noise -> Min bits-per-symbol: 19
+ShannonCapacity: 59.0-Signal2Noise -> Min bits-per-symbol: 19
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ShannonCapacity: 1-Num-of-symbols (M-ary) -> bits-per-symbol: 0
+ShannonCapacity: 2-Num-of-symbols (M-ary) -> bits-per-symbol: 1
+ShannonCapacity: 3-Num-of-symbols (M-ary) -> bits-per-symbol: 1
+ShannonCapacity: 4-Num-of-symbols (M-ary) -> bits-per-symbol: 2
+ShannonCapacity: 5-Num-of-symbols (M-ary) -> bits-per-symbol: 2
+ShannonCapacity: 6-Num-of-symbols (M-ary) -> bits-per-symbol: 2
+ShannonCapacity: 7-Num-of-symbols (M-ary) -> bits-per-symbol: 2
+ShannonCapacity: 8-Num-of-symbols (M-ary) -> bits-per-symbol: 3
+ShannonCapacity: 9-Num-of-symbols (M-ary) -> bits-per-symbol: 3
+ShannonCapacity: 10-Num-of-symbols (M-ary) -> bits-per-symbol: 3
+ShannonCapacity: 11-Num-of-symbols (M-ary) -> bits-per-symbol: 3
+ShannonCapacity: 12-Num-of-symbols (M-ary) -> bits-per-symbol: 3
+ShannonCapacity: 13-Num-of-symbols (M-ary) -> bits-per-symbol: 3
+ShannonCapacity: 14-Num-of-symbols (M-ary) -> bits-per-symbol: 3
+ShannonCapacity: 15-Num-of-symbols (M-ary) -> bits-per-symbol: 3
+ShannonCapacity: 16-Num-of-symbols (M-ary) -> bits-per-symbol: 4
+ShannonCapacity: 17-Num-of-symbols (M-ary) -> bits-per-symbol: 4
+ShannonCapacity: 18-Num-of-symbols (M-ary) -> bits-per-symbol: 4
+ShannonCapacity: 19-Num-of-symbols (M-ary) -> bits-per-symbol: 4
+ShannonCapacity: 20-Num-of-symbols (M-ary) -> bits-per-symbol: 4
+ShannonCapacity: 21-Num-of-symbols (M-ary) -> bits-per-symbol: 4
+ShannonCapacity: 22-Num-of-symbols (M-ary) -> bits-per-symbol: 4
+ShannonCapacity: 23-Num-of-symbols (M-ary) -> bits-per-symbol: 4
+ShannonCapacity: 24-Num-of-symbols (M-ary) -> bits-per-symbol: 4
+ShannonCapacity: 25-Num-of-symbols (M-ary) -> bits-per-symbol: 4
+ShannonCapacity: 26-Num-of-symbols (M-ary) -> bits-per-symbol: 4
+ShannonCapacity: 27-Num-of-symbols (M-ary) -> bits-per-symbol: 4
+ShannonCapacity: 28-Num-of-symbols (M-ary) -> bits-per-symbol: 4
+ShannonCapacity: 29-Num-of-symbols (M-ary) -> bits-per-symbol: 4
+ShannonCapacity: 30-Num-of-symbols (M-ary) -> bits-per-symbol: 4
+ShannonCapacity: 31-Num-of-symbols (M-ary) -> bits-per-symbol: 4
+ShannonCapacity: 32-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 33-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 34-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 35-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 36-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 37-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 38-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 39-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 40-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 41-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 42-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 43-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 44-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 45-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 46-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 47-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 48-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 49-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 50-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 51-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 52-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 53-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 54-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 55-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 56-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 57-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 58-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 59-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 60-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 61-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 62-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 63-Num-of-symbols (M-ary) -> bits-per-symbol: 5
+ShannonCapacity: 64-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 65-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 66-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 67-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 68-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 69-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 70-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 71-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 72-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 73-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 74-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 75-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 76-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 77-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 78-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 79-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 80-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 81-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 82-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 83-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 84-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 85-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 86-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 87-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 88-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 89-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 90-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 91-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 92-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 93-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 94-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 95-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 96-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 97-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 98-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 99-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 100-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 101-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 102-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 103-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 104-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 105-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 106-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 107-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 108-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 109-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 110-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 111-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 112-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 113-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 114-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 115-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 116-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 117-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 118-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 119-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 120-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 121-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 122-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 123-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 124-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 125-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 126-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 127-Num-of-symbols (M-ary) -> bits-per-symbol: 6
+ShannonCapacity: 128-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 129-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 130-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 131-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 132-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 133-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 134-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 135-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 136-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 137-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 138-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 139-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 140-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 141-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 142-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 143-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 144-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 145-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 146-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 147-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 148-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 149-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 150-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 151-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 152-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 153-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 154-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 155-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 156-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 157-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 158-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 159-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 160-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 161-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 162-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 163-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 164-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 165-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 166-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 167-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 168-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 169-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 170-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 171-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 172-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 173-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 174-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 175-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 176-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 177-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 178-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 179-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 180-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 181-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 182-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 183-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 184-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 185-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 186-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 187-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 188-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 189-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 190-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 191-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 192-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 193-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 194-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 195-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 196-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 197-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 198-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 199-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 200-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 201-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 202-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 203-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 204-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 205-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 206-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 207-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 208-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 209-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 210-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 211-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 212-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 213-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 214-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 215-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 216-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 217-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 218-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 219-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 220-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 221-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 222-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 223-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 224-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 225-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 226-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 227-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 228-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 229-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 230-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 231-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 232-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 233-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 234-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 235-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 236-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 237-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 238-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 239-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 240-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 241-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 242-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 243-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 244-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 245-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 246-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 247-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 248-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 249-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 250-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 251-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 252-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 253-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 254-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 255-Num-of-symbols (M-ary) -> bits-per-symbol: 7
+ShannonCapacity: 256-Num-of-symbols (M-ary) -> bits-per-symbol: 8
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ShannonCapacity: 1-BitsPerSymbol -> Num-of-symbol (M-ary): 2
+ShannonCapacity: 2-BitsPerSymbol -> Num-of-symbol (M-ary): 4
+ShannonCapacity: 3-BitsPerSymbol -> Num-of-symbol (M-ary): 8
+ShannonCapacity: 4-BitsPerSymbol -> Num-of-symbol (M-ary): 16
+ShannonCapacity: 5-BitsPerSymbol -> Num-of-symbol (M-ary): 32
+ShannonCapacity: 6-BitsPerSymbol -> Num-of-symbol (M-ary): 64
+ShannonCapacity: 7-BitsPerSymbol -> Num-of-symbol (M-ary): 128
+ShannonCapacity: 8-BitsPerSymbol -> Num-of-symbol (M-ary): 256
